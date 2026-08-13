@@ -1,0 +1,73 @@
+    body    {
+        margin: 0;
+        background-color: #E1000F;
+    }
+
+    h1  {    
+        color:  #fff;
+        text-align: center;
+        font-family: "dancing script", cursive;
+        font-size: 40px;
+    }
+
+    .texto   {
+        color: #fff;
+        font-size: 30px;
+        margin: 20px;
+        text-align: justify;
+    }
+
+    .grande   {
+        margin: 0   auto;
+        display: block;
+        border: 3px solid   #000;
+        width: 350px;
+        height: 600px;
+        object-fit: cover;
+        position: absolute;
+        top: 350px;
+        right: 100px;
+    }
+
+    .estudo    {
+        margin: 0   auto;
+        display: block;
+        border: 3px solid   #000;
+        width: 500px;
+        height: 500px;
+        object-fit: cover;
+        position: absolute;
+        top: 400px;
+        right: 500px;
+    }
+
+    a   {
+    display: flex;             
+    justify-content: center;   
+    align-items: center;       
+    font-family: "dancing script", cursive;
+    font-size: 25px;           
+    color: #000;
+    background: #fff;
+    border: 2px solid #000;
+    text-decoration: none;
+    width: 120px;              
+    height: 45px;
+    margin: 40px auto 0px auto; 
+    margin-right: 500px;
+    margin-top: 65px;
+    border-radius: 4px;
+}
+
+    .mais   {
+        font-size: 32px;
+        margin: 20px;
+        color: #fff;
+    }
+
+    .texto2  {
+        color: #fff;
+        font-size: 30px;
+        margin: 20px;
+        text-align: justify;
+    }
